@@ -1,0 +1,9 @@
+ pandas
+ scikit-learn
+ joblib
+ flask
+ requests
+ streamlit
+ plotly
+ seaborn
+ matplotlib 
